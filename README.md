@@ -1,4 +1,12 @@
-# Olá, seja bem-vindo(a)! 👋
+<h1 align="center">Olá 👋, eu sou o Eduardo Souza Pereira</h1>
+<h3 align="center">Analista de Sistemas | Desenvolvedor de Sistemas | Suporte Técnico</h3>
+
+- 🌱 Atualmente desenvolvendo meu portifólio em **Java, Python e C**
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui no Github
+- ⚡ Fato curioso: **minha primeira linguagem de programação foi Pascal**
+
+<p align="left">
+</p>
 
 ## Atualmente estudando:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
